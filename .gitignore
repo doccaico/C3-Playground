@@ -1,5 +1,6 @@
 *.exe
 *.lib
 *.pdb
+basic.c3
 
 *.o
