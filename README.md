@@ -14,7 +14,7 @@
 - C Interoperability
     - [1][c.inter.1] | [2][c.inter.2]
 - Memo
-    - [Command-Line Arguments][m1] | [In/Decrement][m2]
+    - [Command-Line Arguments][m.1] | [In/Decrement][m.2]
 
 [bt.1]: <https://c3-lang.org/language-fundamentals/basic-types-and-values/>
 [bt.2]: <https://c3-lang.org/language-overview/primer/#basic-types>
