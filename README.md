@@ -10,14 +10,15 @@
     - [Basic](/src/switch.c3)
     - [Nextcase and labelled nextcase](https://c3-lang.org/language-fundamentals/statements/#nextcase-and-labelled-nextcase)
 - Function
-    - [Basic](https://c3-lang.org/language-fundamentals/functions/)
-    - [Vaargs](https://c3-lang.org/language-fundamentals/functions/#vaargs)
-    - [Splat](https://c3-lang.org/language-fundamentals/functions/#splat)
+    - [1][fn.1] | [Vaargs][fn.vaargs] | [Splat][fn.splat]
 - Error Handling (Optional)
     - [1][e.h.1] | [2][e.h.2]
 - C Interoperability
     - [1][c.inter.1] | [2][c.inter.2]
 
+[fn.1]: [https://c3-lang.org/language-fundamentals/functions/]
+[fn.vaargs]: [https://c3-lang.org/language-fundamentals/functions/#vaargs]
+[fn.splat]: [https://c3-lang.org/language-fundamentals/functions/#splat]
 
 [e.h.1]: <https://c3-lang.org/language-common/optionals-essential/>
 [e.h.2]: <https://c3-lang.org/language-common/optionals-advanced/>
