@@ -15,7 +15,7 @@
     - [Vaargs](https://c3-lang.org/language-fundamentals/functions/#vaargs)
     - [Splat](https://c3-lang.org/language-fundamentals/functions/#splat)
 - Error Handling (Optional)
-    - [Basic][error.handling.basic] [Advanced][error.handling.advanced]
+    - [Basic][error.handling.basic] | [Advanced][error.handling.advanced]
 - [C Interoperability](https://c3-lang.org/language-common/cinterop/)
 
 
