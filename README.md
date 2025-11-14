@@ -7,14 +7,17 @@
 - [Loop](/src/loop.c3)
 - [Increment and decrement](/src/increment-decrement.c3)
 - Switch
-    - [Basic](/src/switch.c3)
-    - [Nextcase and labelled nextcase](https://c3-lang.org/language-fundamentals/statements/#nextcase-and-labelled-nextcase)
+    - [1][sw.1] | [Nextcase and labelled nextcase][sw.nextcase]
 - Function
     - [1][fn.1] | [Vaargs][fn.vaargs] | [Splat][fn.splat]
 - Error Handling (Optional)
     - [1][e.h.1] | [2][e.h.2]
 - C Interoperability
     - [1][c.inter.1] | [2][c.inter.2]
+
+
+[sw.1]: </src/switch.c3>
+[sw.nextcase]: <https://c3-lang.org/language-fundamentals/statements/#nextcase-and-labelled-nextcase>
 
 [fn.1]: <https://c3-lang.org/language-fundamentals/functions/>
 [fn.vaargs]: <https://c3-lang.org/language-fundamentals/functions/#vaargs>
