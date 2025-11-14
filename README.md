@@ -3,7 +3,6 @@
 - Basic Type
     - [Basic Types and Values](https://c3-lang.org/language-fundamentals/basic-types-and-values/)
     - [Basic Types](https://c3-lang.org/language-overview/primer/#basic-types)
-    - [C compatibility](https://c3-lang.org/language-overview/types/#c-compatibility)
 - [Args](/src/args.c3)
 - [Loop](/src/loop.c3)
 - [Increment and decrement](/src/increment-decrement.c3)
@@ -15,9 +14,13 @@
     - [Vaargs](https://c3-lang.org/language-fundamentals/functions/#vaargs)
     - [Splat](https://c3-lang.org/language-fundamentals/functions/#splat)
 - Error Handling (Optional)
-    - [Basic][error.handling.basic] | [Advanced][error.handling.advanced]
-- [C Interoperability](https://c3-lang.org/language-common/cinterop/)
+    - [1][e.h.1] | [2][e.h.2]
+- C Interoperability
+    - [1][c.inter.1] | [2][c.inter.2]
 
 
-[error.handling.basic]: <https://c3-lang.org/language-common/optionals-essential/>
-[error.handling.advanced]: <https://c3-lang.org/language-common/optionals-advanced/>
+[e.h.1]: <https://c3-lang.org/language-common/optionals-essential/>
+[e.h.2]: <https://c3-lang.org/language-common/optionals-advanced/>
+
+[c.inter.1]: <https://c3-lang.org/language-common/cinterop/>
+[c.inter.2]: <https://c3-lang.org/language-overview/types/#c-compatibility>
