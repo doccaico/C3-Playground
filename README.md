@@ -7,6 +7,7 @@
     - [1][sw.1] | [Nextcase][sw.nextcase]
 - Function
     - [1][fn.1] | [Vaargs][fn.vaargs] | [Splat][fn.splat]
+- [Modules][mod]
 - Defer and Cleanup
     - [defer][df.1] | [defer try][df.2] | [defer catch][df.3]
 - Error Handling (Optional)
@@ -27,6 +28,8 @@
 [fn.1]: <https://c3-lang.org/language-fundamentals/functions/>
 [fn.vaargs]: <https://c3-lang.org/language-fundamentals/functions/#vaargs>
 [fn.splat]: <https://c3-lang.org/language-fundamentals/functions/#splat>
+
+[mod]: <https://c3-lang.org/language-fundamentals/modules/>
 
 [df.1]: <https://c3-lang.org/language-common/defer/#defer>
 [df.2]: <https://c3-lang.org/language-common/defer/#defer-try>
