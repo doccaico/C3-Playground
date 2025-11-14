@@ -1,8 +1,7 @@
 # Playing with C3
 
 - Basic Type
-    - [Basic Types and Values](https://c3-lang.org/language-fundamentals/basic-types-and-values/)
-    - [Basic Types](https://c3-lang.org/language-overview/primer/#basic-types)
+    - [1][bt.1] | [2][bt.2]
 - [Args](/src/args.c3)
 - [Loop](/src/loop.c3)
 - [Increment and decrement](/src/increment-decrement.c3)
@@ -15,6 +14,8 @@
 - C Interoperability
     - [1][c.inter.1] | [2][c.inter.2]
 
+[bt.1]: <https://c3-lang.org/language-fundamentals/basic-types-and-values/>
+[bt.2]: <https://c3-lang.org/language-overview/primer/#basic-types>
 
 [sw.1]: </src/switch.c3>
 [sw.nextcase]: <https://c3-lang.org/language-fundamentals/statements/#nextcase-and-labelled-nextcase>
