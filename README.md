@@ -7,6 +7,8 @@
     - [1][sw.1] | [Nextcase][sw.nextcase]
 - Function
     - [1][fn.1] | [Vaargs][fn.vaargs] | [Splat][fn.splat]
+- Defer and Cleanup
+    - [defer][df.1] | [defer try][df.2] | [defer catch][df.3]
 - Error Handling (Optional)
     - [1][e.h.1] | [2][e.h.2]
 - C Interoperability
@@ -25,6 +27,10 @@
 [fn.1]: <https://c3-lang.org/language-fundamentals/functions/>
 [fn.vaargs]: <https://c3-lang.org/language-fundamentals/functions/#vaargs>
 [fn.splat]: <https://c3-lang.org/language-fundamentals/functions/#splat>
+
+[df.1]: <https://c3-lang.org/language-common/defer/#defer>
+[df.2]: <https://c3-lang.org/language-common/defer/#defer-try>
+[df.3]: <https://c3-lang.org/language-common/defer/#defer-catch>
 
 [e.h.1]: <https://c3-lang.org/language-common/optionals-essential/>
 [e.h.2]: <https://c3-lang.org/language-common/optionals-advanced/>
