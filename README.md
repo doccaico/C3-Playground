@@ -16,9 +16,9 @@
 - C Interoperability
     - [1][c.inter.1] | [2][c.inter.2]
 
-[fn.1]: [https://c3-lang.org/language-fundamentals/functions/]
-[fn.vaargs]: [https://c3-lang.org/language-fundamentals/functions/#vaargs]
-[fn.splat]: [https://c3-lang.org/language-fundamentals/functions/#splat]
+[fn.1]: <https://c3-lang.org/language-fundamentals/functions/>
+[fn.vaargs]: <https://c3-lang.org/language-fundamentals/functions/#vaargs>
+[fn.splat]: <https://c3-lang.org/language-fundamentals/functions/#splat>
 
 [e.h.1]: <https://c3-lang.org/language-common/optionals-essential/>
 [e.h.2]: <https://c3-lang.org/language-common/optionals-advanced/>
